@@ -10,3 +10,20 @@ Prerequisites:
 
       $> npm install express
 
+- Set up a firebase account (http://firebase.google.com)
+
+- Download/clone repo
+
+Exercise:
+
+- Fill in your firebase credentials
+
+- Build your Express App and load the index.html file
+
+- Add the `main.css` file
+
+- Run the app: `node app.js`
+
+Extras:
+
+- Consider running `ngrok` to allow others to connect to your app.
